@@ -18,4 +18,4 @@ A simple bank management system implemented in Java that simulates a locker syst
 Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/bank-management-system.git
+   [https://github.com/praveennaik94/Bank-Manage-System/tree/main/bank/management/system]
