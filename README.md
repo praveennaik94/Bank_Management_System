@@ -1,21 +1,23 @@
-# Bank Management System
+<h1 align="center">Hi 👋, I'm Islavath Praveen Naik</h1>
+<h3 align="center">A passionate Java Developer and frontend developer from India</h3>
 
-A simple bank management system implemented in Java that simulates a locker system where users can deposit and withdraw money.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=praveennaik94&label=Profile%20views&color=0e75b6&style=flat" alt="praveennaik94" /> </p>
 
-## Features
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praveennaik94" alt="praveennaik94" /></a> </p>
 
-- Deposit money
-- Withdraw money
-- Check account balance
-- Simple text-based menu interface
+- 🌱 I’m currently learning **JavaScript**
 
-## Prerequisites
+- 📫 How to reach me **naikp3256@gmail.com**
 
-- Java JDK 11 or higher
-- IDE (Eclipse, IntelliJ IDEA, etc.) or a text editor with command-line compilation
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/islavath-praveen-naik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/islavath-praveen-naik/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/naik3256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="naik3256" height="30" width="40" /></a>
+</p>
 
-## How to Run
-Clone the repository:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-   ```bash
-   [https://github.com/praveennaik94/Bank-Manage-System/tree/main/bank/management/system]
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=praveennaik94&show_icons=true&locale=en&layout=compact" alt="praveennaik94" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=praveennaik94&show_icons=true&locale=en" alt="praveennaik94" /></p>
