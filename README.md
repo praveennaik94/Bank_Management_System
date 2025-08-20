@@ -55,7 +55,7 @@ icon/
   </li>
   <li>Open the project in a Java IDE (Eclipse, IntelliJ IDEA, or NetBeans)</li>
   <li>Set up a MySQL database and update the connection details in <code>Connn.java</code></li>
-  <li>Run <code>Main_Class.java</code> to start the application</li>
+  <li>Run <code>Login.java</code> to start the application</li>
   <li>Follow on-screen instructions to signup, login, and perform banking operations</li>
 </ol>
 
